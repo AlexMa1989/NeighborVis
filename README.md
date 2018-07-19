@@ -1,5 +1,9 @@
 # NeighborVis
 
+<p align="center">
+  <img width="460" height="300" src="">
+</p>
+
 NeighborVis is a visual analytics system of geospatial-semantic event data in localized neighborhoods within a larger city, town, suburb or rural area. The geospatial-semantic event data (we name it GSE data in this document), consists of geospatial (longitude/latitude or locational address), time, and semantic dimensions, which forms a large part of the important information people deal with for business, personal and administrative use. Here are some GSE data examples:
 
 •	Social media data of geo-tagged twitter, facebook, Instagram posts;
