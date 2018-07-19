@@ -15,14 +15,14 @@ NeighborVis is developed to allow users to study these GSE datasets in a communi
 Website Link: http://vis.cs.kent.edu/NeighborVis/
 
 Director: 
-Ye Zhao, Professor 
-Phone: 330-672-9059 Email: zhao@cs.kent.edu 
-Dept. of Computer Science, Kent State University, Ohio 44242 
+Ye Zhao, Professor</br>
+Phone: 330-672-9059 Email: zhao@cs.kent.edu</br>
+Dept. of Computer Science, Kent State University, Ohio 44242</br>
 
 Lead of Software Development:
-Chao Ma (Ph.D. Candidate)
-Kent State University 
-Dept. of Computer Science
-Kent, Ohio 44242-0001
-(330) 389-5081 
-cma1@kent.edu
+Chao Ma (Ph.D. Candidate)</br>
+Kent State University </br>
+Dept. of Computer Science</br>
+Kent, Ohio 44242-0001</br>
+(330) 389-5081 </br>
+cma1@kent.edu</br>
